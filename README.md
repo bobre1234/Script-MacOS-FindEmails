@@ -1,6 +1,6 @@
 # MacOS - FindEmails
 
-This is a group of scripts which was used to retrieve emails on MacOS 
+This is a group of scripts which was used to retrieve emails from the Mail application on MacOS. You must execute the script on the MacOS where you want to retrieve the emails. 
 
 Stack : shell, python
 
